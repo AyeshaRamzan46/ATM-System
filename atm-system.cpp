@@ -1,8 +1,8 @@
-// ==============================================
+// ==========================================================
 // ATM SYSTEM SIMULATION
 // Description: A console-based ATM system with PIN verification,
 //              balance management, deposit, withdrawal, and mini statement.
-// ==============================================
+// ==========================================================
 
 #include<iostream>
 using namespace std;
